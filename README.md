@@ -159,7 +159,7 @@ to trigger text output.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/prabhnoor 24BCS11464?theme=dark&font=Fira%20Code&ext=heatmap" width="95%"/>
+<img src="https://leetcard.jacoblin.cool/prabhnoor24BCS11464?theme=dark&font=Fira%20Code&ext=heatmap" width="95%"/>
 
 <br>
 
