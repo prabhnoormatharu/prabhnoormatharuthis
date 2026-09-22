@@ -153,18 +153,24 @@ to trigger text output.
 
 ---
 
-<!-- LEETCODE -->
+<!-- LEETCODE PROFILE -->
 
-## 🧠 LeetCode — Problem Solving
+<h2 align="center">🧠 LeetCode — Problem Solving</h2>
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/prabhnoor24BCS11464?theme=dark&font=Fira%20Code&ext=heatmap" width="95%"/>
+<a href="https://leetcode.com/u/prabhnoor24bcs11464/">
 
-<br>
+<img src="https://leetcard.jacoblin.cool/prabhnoor24bcs11464?theme=dark&font=Fira%20Code&ext=heatmap" width="95%" />
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/prabhnoor24bcs11464/">
+
+<img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
 </a>
 
 </div>
